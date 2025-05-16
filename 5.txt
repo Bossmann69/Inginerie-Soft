@@ -1,0 +1,21 @@
+In cartea data sunt prezentate doua tipuri de diagrame: Structure diagrams si Behavior diagrams, fiecare avand mai multe subdiagrame spre
+exemplu:
+Structure diagrams are: diagrama clasa, diagrama obiect, diagrama pachet, diagrama componenta, diagrama de structura a compozitiei, diagrama
+de desfasurare si diagrama de profil.
+
+Behavior diagrams are: diagrama "Use Case", diagrama de stare a masinii, diagrama de activitate, diagrama secventa,diagrama de comunicare,
+diagrama de sincronizare, diagrama de prezentare a interactiunii.
+
+
+Asemanari:
+
+Diagramele de structura (ex: clasa, obiect) modeleaza structura statica a sistemului.
+Diagramele de comportament (ex: cazuri de utilizare, secvența) modeleaza dinamica și interactiunile intre obiecte în timp.
+
+Deosebiri:
+
+Diagrama de clase este abstracta, descriind tipuri de obiecte, în timp ce diagrama de obiecte arata instantele concrete ale acestora.
+Diagrama de secventa pune accent pe ordinea cronologica a mesajelor, in timp ce diagrama de comunicare se concentreaza pe relatiile intre obiecte.
+Diagrama de activitati descrie procesele si fluxurile de activitati, iar diagrama de cazuri de utilizare descrie functionalitatile sistemului pentru utilizatori.
+
+

@@ -1,0 +1,10 @@
+Modelele UML (Unified Modeling Language) sunt diagrame folosite pentru a reprezenta vizual structuri și comportamente ale sistemelor software.
+Ele includ diagrame precum cele de cazuri de utilizare, clase, secvență și activități.
+
+Utilitatea lor ar fi:
+
+Clarifică cerințele și ajută la înțelegerea lor.
+Oferă documentație detaliată pentru mentenanță.
+Îmbunătățesc comunicarea între echipe.
+Susțin proiectarea și testarea sistemelor.
+Facilitează mentenanța pe termen lung.

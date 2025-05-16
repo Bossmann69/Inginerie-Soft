@@ -1,2 +1,2 @@
-UML este un limbaj de modelare in domeniul ingineriei software, este standardizat si gestionat de Object Management Group. Cu el putem crea reprezentatii vizuale a sistemelor
+UML este un limbaj de modelare  555 in domeniul ingineriei software, este standardizat si gestionat de Object Management Group. Cu el putem crea reprezentatii vizuale a sistemelor
 software avansate.
